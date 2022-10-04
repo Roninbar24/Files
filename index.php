@@ -1,1 +1,1 @@
-<?php include_once("templates/index1.html"); ?>
+<?php include_once("sample.html"); ?>
